@@ -1,4 +1,4 @@
-//21BCA11 :- PATTERN 2
+//21BCA69 :- PATTERN 2
 
 #include<stdio.h>
 #include<conio.h>
